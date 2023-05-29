@@ -1,0 +1,38 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+ol li{
+    color: brown;
+    font-style: italic;
+}
+span{
+    font-weight: 900;
+}
+
+.itam-three{
+     text-decoration: line-through;
+}
+.itam-four{
+    background-color: yellow;
+}
+#itam-li{
+    text-decoration: underline;
+}
+ul li{
+    letter-spacing: 5px;
+    color: rgb(189, 12, 12);
+}
+p{
+    color: brown;
+}
+#itam-link{
+    color: red;
+    background-color: yellow;
+}
+a{
+    text-decoration:none;
+}
